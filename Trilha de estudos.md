@@ -38,9 +38,10 @@ Regras de ouro:
 
 ## Fase 0: Preparação do ambiente (2 semanas)
 
-- [ ] Instalar Python (via Anaconda ou Miniconda) e VS Code com a extensão Jupyter
-- [ ] Criar conta no GitHub e aprender o básico: `clone`, `add`, `commit`, `push`
-- [ ] Criar um repositório `jornada-dados` para guardar tudo desta trilha
+- [x] Instalar Python e VS Code com a extensão Jupyter (ambiente virtual `.venv` criado)
+- [x] Conta no GitHub conectada ao computador
+- [x] Criar um repositório `jornada-dados` para guardar tudo desta trilha
+- [ ] Aprender o básico de Git: `add`, `commit`, `push` (vamos praticar a cada capítulo)
 
 ---
 
