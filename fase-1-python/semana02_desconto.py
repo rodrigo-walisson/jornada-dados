@@ -22,3 +22,24 @@
 #   - teste os 4 casos: fidelidade s/n  x  compra acima/abaixo de 500
 
 # Escreva seu programa abaixo
+print("Qual o valor da compra?")
+valor_compra = float(input())
+print("Cliente fidelidade? (s/n)")
+fidelizado = (input())
+
+
+if fidelizado == "n":
+    desconto = 0
+    valor_desconto = valor_compra - (valor_compra * 0.0)
+if fidelizado == "n" and valor_compra > 500:
+    desconto = 5
+    valor_desconto = valor_compra - (valor_compra * 0.05)
+if fidelizado == "s":
+    desconto = 10
+    valor_desconto = valor_compra - (valor_compra * 0.1)
+if fidelizado == "s" and valor_compra > 500:
+    desconto = 15
+    valor_desconto = valor_compra - (valor_compra * 0.15)
+
+
+print(f"desconto: {desconto} % |  Valor final: {valor_desconto}")
