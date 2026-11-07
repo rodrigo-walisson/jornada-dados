@@ -11,8 +11,8 @@
 | Semana | Tema do livro | Notebook | Feito |
 |---|---|---|---|
 | 1 | Básico: expressões, tipos de dados, variáveis | `semana-01-basico.ipynb` + `exercicio_08.py` | [x] |
-| 2 | Controle de fluxo: `if`, `elif`, `else`, booleanos | `semana-02-condicoes.ipynb` + `semana02_desconto.py` | [ ] |
-| 3 | Laços: `while`, `for`, `range` | `semana-03-lacos.ipynb` | [ ] |
+| 2 | Controle de fluxo: `if`, `elif`, `else`, booleanos | `semana-02-condicoes.ipynb` + `semana02_desconto.py` | [x] |
+| 3 | Laços: `while`, `for`, `range`, `break`, `continue` | `semana-03-lacos.ipynb` + `semana03_caixa.py` | [ ] |
 | 4 | Funções | `semana-04-funcoes.ipynb` | [ ] |
 | 5 | Listas | `semana-05-listas.ipynb` | [ ] |
 | 6 | Dicionários | `semana-06-dicionarios.ipynb` | [ ] |
