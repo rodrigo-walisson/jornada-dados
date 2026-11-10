@@ -175,3 +175,44 @@ Escolha um problema da área de Administração que você conheça (previsão de
 | 6 | Projeto final | 3 meses | ≈ 20 meses |
 
 Se em algum momento você conseguir mais horas por semana, as fases encurtam proporcionalmente. Os projetos não devem ser cortados: eles são o que te contrata.
+
+---
+
+## Visão de longo prazo: criar métodos estatísticos próprios
+
+> Objetivo definido em 10/11/2026: chegar ao nível de **criar e provar métodos estatísticos novos** (pesquisa).
+
+Existem três níveis de domínio em estatística:
+
+| Nível | O que significa | Onde se chega |
+|---|---|---|
+| 1 | Usar os métodos existentes do jeito certo e interpretar os resultados | Fases 3 e 5 desta trilha |
+| 2 | Implementar métodos do zero no código e entendê-los por dentro | Projeto 4 + Etapa B |
+| 3 | Criar métodos novos e provar matematicamente que funcionam | Etapas C e D |
+
+Esta trilha é a **Etapa A**. As etapas seguintes serão detalhadas quando ela terminar.
+
+### Etapa A: esta trilha → primeira vaga (~20 meses)
+Base de programação, estatística aplicada e matemática, mais a experiência profissional que sustenta o resto.
+
+### Etapa B: matemática universitária (~1,5 a 2 anos)
+- 📘 *Cálculo*, vols. 1 e 2, de James Stewart (Cengage): limites, derivadas, integrais e cálculo de várias variáveis
+- 📘 *Álgebra Linear e suas Aplicações*, de Gilbert Strang (Cengage): vetores, matrizes, autovalores
+- 📘 *Probabilidade: um curso moderno com aplicações*, de Sheldon Ross (Bookman)
+- 📘 *Estatística Básica*, de Bussab e Morettin (Saraiva): o clássico brasileiro, ponte entre a estatística aplicada e a formal
+- 💻 *Think Stats* e *Think Bayes*, de Allen Downey (gratuitos, em inglês): implementar métodos com código
+
+### Etapa C: estatística matemática (~1 a 1,5 ano)
+- 📘 *Probabilidade: um curso em nível intermediário*, de Barry James (IMPA)
+- 📘 *Statistical Inference*, de Casella e Berger (em inglês): a referência de inferência para pós-graduação
+- 📗 *All of Statistics*, de Larry Wasserman (em inglês): visão geral rigorosa e compacta
+- Aprender a **ler artigos científicos** e **reproduzir** métodos publicados
+
+### Etapa D: mestrado e pesquisa (~2 anos)
+- Mestrado em Estatística ou área próxima (muitos programas aceitam graduados de outras áreas que tenham a base de matemática das Etapas B e C)
+- Pesquisa orientada: propor, provar e testar métodos novos
+
+### O que já ajuda desde agora
+- **Na graduação:** sempre que puder, escolha optativas de **cálculo, estatística e probabilidade**. Isso adianta a Etapa B e conta para o mestrado.
+- **Na Fase 4 desta trilha:** levar a matemática a sério, porque ela é a fundação de tudo o que vem depois.
+- **Mais horas por semana**, quando a vida permitir: no ritmo de 5h, o caminho completo leva de 5 a 7 anos; com 10h, pode cair para perto da metade.
