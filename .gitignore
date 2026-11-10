@@ -12,6 +12,10 @@ __pycache__/
 dados/
 *.zip
 
+# Livros e materiais com direitos autorais (o repositório é público)
+*.pdf
+*.epub
+
 # Sistema
 Thumbs.db
 desktop.ini
